@@ -90,7 +90,7 @@ server.get('/', (req, res) => {
         <p><strong>Idade:</strong> ${idade}</p>
         <p><strong>Salário antigo:</strong> R$ ${salarioBase}</p>
         <p><strong>Anos na empresa:</strong> ${anosEmpresa}</p>
-        <h2 style:"color: pink;">Salário novo:R$ ${salarioNovo.toFixed(2)}</h2>
+        <h2 style="color: pink;">Salário novo:R$ ${salarioNovo.toFixed(2)}</h2>
         <br>
 
         <a href="/">← Consultar novamente</a>

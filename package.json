@@ -1,0 +1,30 @@
+{
+  "name": "reajustesalario-ppi",
+  "version": "1.0.0",
+  "description": "Reajuste Salário - Atividade 1 Unoeste",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/withlovesah/ReajusteSalario-PPI.git"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "PPI",
+    "express"
+  ],
+  "author": "Sara Heloisa Ferreira da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/withlovesah/ReajusteSalario-PPI/issues"
+  },
+  "homepage": "https://github.com/withlovesah/ReajusteSalario-PPI#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
